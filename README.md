@@ -24,4 +24,7 @@ We focused on the US reviews for video games.
 
 ## Summary
 About 51% of the reviews in the Vine program were 5 stars reviews whereas only 39% of the non-Vine reviews were 5-star. This indicates a bias for reviews in the Vine program to be 5-star.\
-Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the reviews based on vine status.
+Additionally:
+* we could analyse the statistical distribution (mean, median and mode) of the star rating for the reviews based on vine status.
+* we could also identify product categories that are susceptible to bias based on vine status.
+* we could perform natural lanugage processing on the review body to separate genuine 5-star paid reviews from superficial ones.
